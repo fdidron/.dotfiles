@@ -1,0 +1,59 @@
+URxvt.font: xft:Fira Code:size=12
+URxvt.scrollBar: false
+URxvt.transparent:   true
+URxvt.shading:       10
+
+! special
+URxvt.foreground:   #c0c5ce
+URxvt.background:   #2b303b
+URxvt.cursorColor:  #c0c5ce
+
+! black
+URxvt.color0:       #2b303b
+URxvt.color8:       #65737e
+
+! red
+URxvt.color1:       #bf616a
+URxvt.color9:       #bf616a
+
+! green
+URxvt.color2:       #a3be8c
+URxvt.color10:      #a3be8c
+
+! yellow
+URxvt.color3:       #ebcb8b
+URxvt.color11:      #ebcb8b
+
+! blue
+URxvt.color4:       #8fa1b3
+URxvt.color12:      #8fa1b3
+
+! magenta
+URxvt.color5:       #b48ead
+URxvt.color13:      #b48ead
+
+! cyan
+URxvt.color6:       #96b5b4
+URxvt.color14:      #96b5b4
+
+! white
+URxvt.color7:       #c0c5ce
+URxvt.color15:      #eff1f5
+
+
+rofi.bw: 0
+rofi.font: Fira Code 18
+rofi.color-normal:                   argb:f22d303b, #c4cbd4, argb:f22d303b, #4084d6, #f9f9f9
+! "Color scheme for urgent row" Set from: File
+rofi.color-urgent:                   argb:02d303b, #cc6666, argb:e52d303b, #a54242, #f9f9f9
+! "Color scheme for active row" Set from: File
+rofi.color-active:                   argb:02d303b, #b5bd68, argb:e42d303b, #8c9440, #f9f9f9
+! "Color scheme window" Set from: File
+rofi.color-window:                   argb:f22d303b,argb:f22d303b, argb:f22d303b, argb:f22d303b
+! "Separator style (none, dash, solid)" Set from: XResources
+rofi.separator-style:                none
+rofi.eh: 2
+rofi.lines: 5
+rofi.width: 100
+rofi.padding: 800
+
